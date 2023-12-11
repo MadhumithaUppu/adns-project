@@ -5,23 +5,23 @@ First install the rust language on the required machine
 This demonstration is done using kali linux, so the installations steps are below
 
 Insall catgo and rustc
-
+`
 sudo apt install cargo
-sudo apt install rustc
+sudo apt install rustc`
 
 Now we need to clone the repo of the project 
 
-git clone https://github.com/madhumithauppu/adns-project
+`git clone https://github.com/madhumithauppu/adns-project`
 
 After cloning the repo we need to go the the directory
 
-cd adns-project
+`cd adns-project`
 
 Once we are in project folder we will see the file 
 
 Run the command
 
-sudo cargo run
+`sudo cargo run`
 
 This will execute the program, note root permissions are needed as iptables are being modified and need priviledges
 
