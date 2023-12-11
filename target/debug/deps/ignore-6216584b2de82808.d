@@ -1,0 +1,14 @@
+/home/madhumitha/Downloads/adns-project/target/debug/deps/ignore-6216584b2de82808.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/default_types.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/dir.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/gitignore.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/overrides.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/pathutil.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/types.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/walk.rs
+
+/home/madhumitha/Downloads/adns-project/target/debug/deps/libignore-6216584b2de82808.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/default_types.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/dir.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/gitignore.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/overrides.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/pathutil.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/types.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/walk.rs
+
+/home/madhumitha/Downloads/adns-project/target/debug/deps/ignore-6216584b2de82808.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/default_types.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/dir.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/gitignore.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/overrides.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/pathutil.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/types.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/walk.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/default_types.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/dir.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/gitignore.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/overrides.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/pathutil.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/types.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.21/src/walk.rs:

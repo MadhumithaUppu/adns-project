@@ -1,0 +1,14 @@
+/home/madhumitha/Downloads/adns-project/target/debug/deps/cookie-e71973322f16d44b.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/builder.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/parse.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/jar.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/delta.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/same_site.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/expiration.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/prefix.rs
+
+/home/madhumitha/Downloads/adns-project/target/debug/deps/libcookie-e71973322f16d44b.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/builder.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/parse.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/jar.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/delta.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/same_site.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/expiration.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/prefix.rs
+
+/home/madhumitha/Downloads/adns-project/target/debug/deps/cookie-e71973322f16d44b.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/builder.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/parse.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/jar.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/delta.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/same_site.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/expiration.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/prefix.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/builder.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/parse.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/jar.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/delta.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/same_site.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/expiration.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.18.0/src/prefix.rs:
