@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Firewall Dashboard</title>
+</head>
+<body>
+    <h1>Firewall Dashboard</h1>
+    <form action="/block_ip" method="post">
+        <input type="text" name="ip" placeholder="Enter IP to block">
+        <button type="submit">Block IP</button>
+    </form>
+</body>
+</html>
